@@ -1,0 +1,5 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="visualVmExecutable" value="/Applications/VisualVM.app/Contents/MacOS/visualvm" />
+  </component>
+</application>

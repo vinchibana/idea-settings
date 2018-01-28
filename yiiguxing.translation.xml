@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="model" />
+      <item value="annotation" />
+      <item value="bind" />
+      <item value="Array List" />
+      <item value="backtrack" />
+      <item value="return" />
+      <item value="Book" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Anonymous Pro" />
+    <option name="primaryFontFamily" value="Anonymous Pro" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5bb3d0353da94938" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

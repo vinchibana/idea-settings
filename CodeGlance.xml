@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGlance">
-    <option name="width" value="64" />
+    <option name="clean" value="false" />
+    <option name="width" value="94" />
   </component>
 </application>

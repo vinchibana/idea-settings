@@ -3,7 +3,6 @@
     <option name="profiles">
       <list>
         <Profile>
-          <option name="defaultProfile" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -109,6 +108,7 @@
           <option name="name" value="default" />
         </Profile>
         <Profile>
+          <option name="defaultProfile" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>

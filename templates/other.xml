@@ -5,4 +5,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="maint" value="public static void main(String[] args) throws Exception {&#10;  $END$&#10;}" description="main() method declaration throws Exception" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>

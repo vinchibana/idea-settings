@@ -115,6 +115,29 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="02-Feb-2018 20:08:34.162 信息 [http-nio-8080-exec-6] org.fkit.controller.DataBindingController.requestHeaderTest text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="4173e730-8380-4b6f-bef1-37475df762c9" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="ba029a46-dd7d-4236-9c72-df2bb781fc2b" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="debfd1e1-9394-4937-945a-59ed89fbebe4" />
                       <option name="style">

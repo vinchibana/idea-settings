@@ -1,6 +1,6 @@
 <application>
   <component name="CodeGlance">
-    <option name="clean" value="false" />
+    <option name="disabled" value="true" />
     <option name="width" value="85" />
   </component>
 </application>

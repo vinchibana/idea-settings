@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="propagation" />
       <item value="delegate" />
       <item value="refid" />
       <item value="gather together" />

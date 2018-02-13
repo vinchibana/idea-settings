@@ -4,12 +4,18 @@
     <property name="created">2017-11-06T23:26:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-02-13T22:00:28</property>
+    <property name="modified">2018-02-14T00:29:12</property>
     <property name="originalScheme">Material Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
     <option name="EDITOR_FONT_SIZE" value="18" />

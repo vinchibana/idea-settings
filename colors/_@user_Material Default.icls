@@ -4,7 +4,7 @@
     <property name="created">2017-11-06T23:26:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-02-14T11:00:33</property>
+    <property name="modified">2018-02-14T11:17:18</property>
     <property name="originalScheme">Material Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -353,11 +353,6 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="7eaef1" />
-      </value>
-    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5394ec" />
@@ -440,11 +435,6 @@
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f8f8f0" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">

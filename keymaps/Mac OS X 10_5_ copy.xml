@@ -22,8 +22,15 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="shift p" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift o" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />

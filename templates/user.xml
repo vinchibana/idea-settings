@@ -1,0 +1,32 @@
+<templateSet group="user">
+  <template name="test" value="@Test&#10;public void test() {&#10;     &#10;}" description="Create JUnit test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="plog" value="private static final Logger logger = LoggerFactory.getLogger($CLASS$.class);" description="Define logger by class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="maint" value="public static void main(String[] args) throws Exception {&#10;  $END$&#10;}" description="main() method declaration throws Exception" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bean" value="&lt;bean id=&quot;$id$&quot; class=&quot;$REF$&quot; /&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="decapitalize(String)" defaultValue="groovyScript(&quot;_1.tokenize('.')[-1]&quot;, clipboard())" alwaysStopAt="true" />
+    <variable name="REF" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

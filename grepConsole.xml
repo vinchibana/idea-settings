@@ -116,6 +116,29 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="[14:16:41.806][DEBUG][org.mybatis.spring.SqlSessionUtils][http-nio-8088-exec-1] Creating a new SqlSession&#10;[14:16:41.809][DEBUG][org.mybatis.spring.SqlSessionUtils][http-nio-8088-exec-1] SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5ea53b06] was not registered for synchronization because synchronization is not active&#10;[14:16:41.812][DEBUG][o.m.s.t.SpringManagedTransaction][http-nio-8088-exec-1] JDBC Connection [jdbc:mysql://localhost:3306/tmall?characterEncoding=utf-8&amp;useSSL=false, UserName=root@localhost, MySQL Connector Java] will not be managed by Spring&#10;[14:16:41.812][DEBUG][c.t.d.S.selectByShippingIdUserId][http-nio-8088-exec-1] ==&gt;  Preparing: select id, user_id, receiver_name, receiver_phone, receiver_mobile, receiver_province, receiver_city, receiver_district, receiver_address, receiver_zip, create_time, update_time from mmall_shipping where id = ? and user_id = ? &#10;[14:16:41.814][DEBUG][c.t.d.S.selectByShippingIdUserId][http-nio-8088-exec-1] ==&gt; Parameters: 1(Integer), 29(Integer)&#10;[14:16:41.816][DEBUG][c.t.d.S.selectByShippingIdUserId][http-nio-8088-exec-1] &lt;==      Total: 0&#10;[14:16:41.816][DEBUG][org.mybatis.spring.SqlSessionUtils][http-nio-8088-exec-1] Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5ea53b06]" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="add4a972-e28e-4739-88cc-51034daf0dc5" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="b6af5555-50b0-4786-963d-9ecdcfda7567" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="02-Feb-2018 20:08:34.162 信息 [http-nio-8080-exec-6] org.fkit.controller.DataBindingController.requestHeaderTest text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8&#10;" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="4173e730-8380-4b6f-bef1-37475df762c9" />

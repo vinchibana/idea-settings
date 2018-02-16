@@ -11,6 +11,18 @@
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt b" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt semicolon" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />

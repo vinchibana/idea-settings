@@ -8,11 +8,27 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="output" />
+          <option name="key" value="serr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
           <option name="key" value="sout" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="output" />
           <option name="key" value="souf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="output" />
+          <option name="key" value="soutv" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="jsf" />

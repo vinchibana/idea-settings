@@ -22,11 +22,18 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="bean" value="&lt;bean id=&quot;$id$&quot; class=&quot;$REF$&quot; /&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="bean" value="&lt;bean id=&quot;$id$&quot; class=&quot;$REF$&quot; /&gt;" description="Define bean in Spring" toReformat="false" toShortenFQNames="true">
     <variable name="id" expression="decapitalize(String)" defaultValue="groovyScript(&quot;_1.tokenize('.')[-1]&quot;, clipboard())" alwaysStopAt="true" />
     <variable name="REF" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="ls" value="List&lt;$TYPE$&gt; $VAR$ = new ArrayList&lt;&gt;();" description="Generate list" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="expectedType()" defaultValue="&quot;String&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>

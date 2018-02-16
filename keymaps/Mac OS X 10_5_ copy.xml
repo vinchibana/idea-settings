@@ -5,33 +5,30 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift n" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="shift b" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt b" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="shift f" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
   </action>
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift p" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
   </action>
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift o" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>

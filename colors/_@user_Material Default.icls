@@ -4,7 +4,7 @@
     <property name="created">2017-11-06T23:26:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-02-24T10:58:27</property>
+    <property name="modified">2018-02-24T11:36:33</property>
     <property name="originalScheme">Material Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -683,7 +683,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="808080" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

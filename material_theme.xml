@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="30" />

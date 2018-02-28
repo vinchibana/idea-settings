@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt semicolon" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -21,7 +25,7 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt quote" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />

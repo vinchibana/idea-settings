@@ -4,7 +4,7 @@
     <property name="created">2017-12-16T22:50:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-02-28T12:29:45</property>
+    <property name="modified">2018-02-28T22:00:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -17,6 +17,7 @@
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />

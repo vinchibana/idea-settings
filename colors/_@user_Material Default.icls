@@ -4,11 +4,11 @@
     <property name="created">2017-11-06T23:26:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-02-28T12:29:45</property>
+    <property name="modified">2018-02-28T22:00:56</property>
     <property name="originalScheme">Material Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
   <option name="CONSOLE_FONT_NAME" value="Anonymous Pro for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="18" />

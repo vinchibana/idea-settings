@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="delimiter" />
       <item value="offset" />
       <item value="Allocates" />
       <item value="but failed to unregister it when the web application was stopped" />

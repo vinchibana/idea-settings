@@ -1,4 +1,9 @@
 <application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
     <browser-settings>
@@ -141,9 +146,7 @@
           <content-type name="FTL" enabled="true" />
           <content-type name="TML" enabled="true" />
           <content-type name="GSP" enabled="true" />
-          <content-type name="ASP" enabled="true" />
           <content-type name="VTL" enabled="true" />
-          <content-type name="AIDL" enabled="true" />
           <content-type name="YAML" enabled="true" />
           <content-type name="Flex" enabled="true" />
           <content-type name="Bash" enabled="true" />
@@ -158,6 +161,8 @@
       <general>
         <show-object-navigation-gutter value="false" />
         <show-spec-declaration-navigation-gutter value="true" />
+        <enable-spellchecking value="true" />
+        <enable-reference-spellchecking value="false" />
       </general>
       <confirmations>
         <save-changes value="false" />
@@ -327,7 +332,6 @@
         <debug-execution-timeout value="600" />
         <focus-result value="false" />
         <prompt-execution value="false" />
-        <target-connection value="ASK" />
       </statement-execution>
       <script-execution>
         <command-line-interfaces />

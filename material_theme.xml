@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.8.3" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="statusBarTheme" value="false" />
@@ -9,5 +9,6 @@
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="-4d0aa531:163e34d3992:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>

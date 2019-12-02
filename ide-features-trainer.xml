@@ -3,11 +3,10 @@
     <option name="languageName" value="JAVA" />
   </component>
   <component name="LessonStateBase">
-    <option name="myMap">
+    <option name="map">
       <map>
         <entry key="Actions" value="NOT_PASSED" />
         <entry key="Basic Completion" value="NOT_PASSED" />
-        <entry key="Basic Navigation" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
@@ -16,22 +15,23 @@
         <entry key="Collapse" value="NOT_PASSED" />
         <entry key="Comment Line" value="NOT_PASSED" />
         <entry key="Completion with Tab" value="NOT_PASSED" />
-        <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
-        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
-        <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
-        <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
+        <entry key="Debug function calls" value="NOT_PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
         <entry key="Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
-        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
         <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.Move" value="NOT_PASSED" />
-        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
         <entry key="EditorBasics.Selection" value="NOT_PASSED" />
         <entry key="Extract Method" value="NOT_PASSED" />
         <entry key="Extract Variable" value="NOT_PASSED" />
         <entry key="File structure" value="NOT_PASSED" />
+        <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
+        <entry key="Goland2019.2.FillStructFields" value="NOT_PASSED" />
+        <entry key="Goland2019.2.RedundantTypeConversions" value="NOT_PASSED" />
+        <entry key="Goland2019.3.CreateFunctionFromFunctionType" value="NOT_PASSED" />
+        <entry key="Goland2019.3.DeleteParameterNames" value="NOT_PASSED" />
+        <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
+        <entry key="Goland2019.3.ExtractVariableWithError" value="NOT_PASSED" />
+        <entry key="Goland2019.3.ForrLiveTemplate" value="NOT_PASSED" />
+        <entry key="Goland2019.3.ReuseSignatureTypes" value="NOT_PASSED" />
         <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
         <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
         <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
@@ -50,6 +50,7 @@
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="NOT_PASSED" />
+        <entry key="Postfix templates" value="NOT_PASSED" />
         <entry key="Refactoring Menu" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />

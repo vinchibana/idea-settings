@@ -12,6 +12,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>

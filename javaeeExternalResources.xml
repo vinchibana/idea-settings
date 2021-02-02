@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/7ab94007_spring-aop.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/334543e7_spring-beans.xsd" />
     <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/a93b54e7_spring-context.xsd" />

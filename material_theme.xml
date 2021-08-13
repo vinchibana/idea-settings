@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
-    <option name="premium" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
@@ -10,8 +9,7 @@
     <option name="tabsHeight" value="30" />
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-4d0aa531:163e34d3992:-7fff" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.8.0.1" />
   </component>
 </application>

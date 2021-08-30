@@ -15,5 +15,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>

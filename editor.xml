@@ -1,16 +1,11 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Anonymous Pro" />
-    <option name="LINE_SPACING" value="1.1" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
 </application>

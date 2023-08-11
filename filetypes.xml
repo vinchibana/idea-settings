@@ -2,22 +2,24 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="sql" type="DBN-SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="sql" type="SQL" />
       <mapping pattern="smart-servlet" type="XML" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
-      <removed_mapping ext="ddl" type="SQL" />
+      <removed_mapping ext="ddl" approved="true" type="SQL" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="fnc" approved="true" type="SQL" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="pkb" approved="true" type="SQL" />
       <removed_mapping ext="pks" approved="true" type="SQL" />
       <removed_mapping ext="prc" approved="true" type="SQL" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="tpb" approved="true" type="SQL" />
       <removed_mapping ext="tps" approved="true" type="SQL" />
       <removed_mapping ext="trg" approved="true" type="SQL" />

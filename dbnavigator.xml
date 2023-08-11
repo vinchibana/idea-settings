@@ -1,9 +1,22 @@
 <application>
+  <component name="DBNavigator.Application.FileTypeService">
+    <original-file-types>
+      <mapping file-extension="sql" file-type="SQL" />
+    </original-file-types>
+  </component>
+  <component name="DBNavigator.Application.PluginConflictManager">
+    <file-types-claimed value="true" />
+  </component>
   <component name="DBNavigator.Application.Settings">
-    <debug-logging database-access="false" database-resource="false" />
-    <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
-    <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" alternative-parser-enabled="false" />
-    <developer-mode value="false" />
+    <diagnostics>
+      <developer-mode>
+        <timeout value="10" />
+        <enabled value="false" />
+      </developer-mode>
+      <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
+      <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+    </diagnostics>
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">

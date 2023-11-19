@@ -10,6 +10,8 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
+      <status project="$USER_HOME$/Repos/Pake" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="$USER_HOME$/Code/fkbkapp" dbn="PASSIVE" sql="ACTIVE" />
       <status project="$USER_HOME$/JS/newbee-mall-api" dbn="PASSIVE" sql="ACTIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>

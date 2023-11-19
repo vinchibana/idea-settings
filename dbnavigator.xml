@@ -7,8 +7,12 @@
   <component name="DBNavigator.Application.PluginConflictManager">
     <plugin-conflict-prompted value="false" />
     <file-types-claimed value="true" />
-    <sql-plugin-status value="ACTIVE" />
-    <sbn-plugin-status value="PASSIVE" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/JS/newbee-mall-api" dbn="PASSIVE" sql="ACTIVE" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
+    </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>

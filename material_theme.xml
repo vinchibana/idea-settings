@@ -8,8 +8,10 @@
     <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="30" />
     <option name="accentColor" value="009688" />
+    <option name="secondAccentColor" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="focusColor" />
     <option name="userId" value="-4d0aa531:163e34d3992:-7fff" />
-    <option name="version" value="8.12.6" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>

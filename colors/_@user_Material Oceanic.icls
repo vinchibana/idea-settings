@@ -4,7 +4,7 @@
     <property name="created">2019-04-09T23:10:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2023-12-20T19:04:25</property>
+    <property name="modified">2024-01-13T23:26:36</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -94,7 +94,7 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
